@@ -1,6 +1,6 @@
 # boot-rest
 
-This project is in ready-to-run state.
+Setting up a project from scratch could be time consuming if not done right. This project is a boiler plate and it is ready-to-run state.
 
 - Softwares Used to develop this project
 	- Java 8
