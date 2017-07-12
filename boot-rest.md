@@ -11,7 +11,7 @@ This project is in ready-to-run state.
 This project can be used 
 - To create an instant restful service using eclipse.
 - Package the project to (Jar/War) using maven 
-	mvn clean install
+	```mvn clean install```
 - Run the generated jar/war instantly using
 	java -jar boot-rest.jar / java -jar boot-rest.war
 - Or move the generated war file to the dedicated tomcat server
