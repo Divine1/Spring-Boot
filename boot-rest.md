@@ -16,6 +16,6 @@ This project can be used
 - Run the generated jar/war instantly using
 
 	```java -jar boot-rest.jar``` / ```java -jar boot-rest.war```
-- Or deploy the generated war file to a dedicated tomcat server
+- Deploy the generated war file to a dedicated tomcat server
 
 
