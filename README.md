@@ -8,7 +8,7 @@ Softwares used to develop these projects are most commonly
 - Apache maven 3.*
 - Windows 8/10
 
-Please go through the repository and open the .md files to understand the for what purpose 
+Please go through the repository and view ```.md files``` to understand for what purpose 
 these projects could be used
 
-Twitter: @divine_rw
+####Twitter: @divine_rw
