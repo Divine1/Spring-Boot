@@ -1,7 +1,7 @@
 # boot-web-basic
 
-#### what is this project about?
-This is a web project with jsp pages.
+### What is this project about?
+This is a web project with jsp files.
 
 Setting up a project from scratch could be time consuming if not done right. This project is a boiler plate and it is ready-to-run state.
 

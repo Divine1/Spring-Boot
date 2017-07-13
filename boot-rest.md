@@ -1,6 +1,6 @@
 # boot-rest
 
-#### what is this project about?
+### What is this project about?
 This is a web project with rest services. This is not a Jsp based web project
 
 
