@@ -1,5 +1,9 @@
 # boot-rest
 
+#### what is this project about?
+This is a web project with rest services. This is not a Jsp based web project
+
+
 Setting up a project from scratch could be time consuming if not done right. This project is a boiler plate and it is ready-to-run state.
 
 - Softwares Used to develop this project
